@@ -5,7 +5,6 @@ Welcome to my personal portfolio website! I’m **Abhishek Thakur**, a passionat
 ## Table of Contents
 - [About Me](#about-me)
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
 - [Technologies & Tools](#technologies--tools)
@@ -29,9 +28,6 @@ I thrive on solving complex problems, automating workflows, and ensuring reliabi
 - **Contact Form:** Reach out directly for collaborations or opportunities
 - **Live Social Links:** Connect with me on GitHub, X (Twitter), and LinkedIn
 - **Scroll Progress Indicator:** See your progress as you browse
-
-## Screenshots
-> ![Portfolio Screenshot](src/images/img1.jpg)
 
 ## Getting Started
 To view my portfolio locally:
